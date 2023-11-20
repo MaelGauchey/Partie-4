@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/Partie 4 workshop/x64/Debug
+/x64/Debug
+/.vs/Partie 4 workshop
